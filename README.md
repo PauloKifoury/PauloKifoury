@@ -1,6 +1,5 @@
 ### hello guys, i am Luiz Paulo �
 
-**PauloKifoury/PauloKifoury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently  estou  terminando meus estudos  em computação na IFRJ
 - 🌱 I’m currently learning  mais profundamente a programação e algumas lingu
